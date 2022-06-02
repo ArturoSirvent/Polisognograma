@@ -19,6 +19,10 @@ Otras librerías que podrían ser útiles para la el tratamiento de señales son
 
 
 
+**Presentacion:**
+
+https://docs.google.com/presentation/d/1LK3ThTByrCmwiiCd3abrP1YpBPSAGgkoRKZa0zfAwXM/edit?usp=sharing
+
 
 
 **TODO:**
